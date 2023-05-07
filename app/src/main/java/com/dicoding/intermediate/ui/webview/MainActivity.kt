@@ -1,4 +1,4 @@
-Apackage com.dicoding.intermediate.ui.webview
+package com.dicoding.intermediate.ui.webview
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
